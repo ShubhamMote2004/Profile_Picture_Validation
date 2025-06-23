@@ -1,0 +1,9 @@
+deepface==0.0.79
+opencv-python==4.5.5.64
+nudenet==2.0.8
+numpy==1.23.5
+Pillow==9.5.0
+tensorflow==2.10.0
+keras==2.10.0
+matplotlib==3.5.3
+gdown==4.7.1
